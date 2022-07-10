@@ -1,9 +1,10 @@
 # NYC Citi Bike Sharing
+Bike share programs have been a popular choice for public transportation in many major cities, an Des Moines, Iowa is hopnig to start a bike share program of their own! While using data from the NYC Citi Bike share program during August 2019, visualizing the data that supports the decision to bring bike shares to Des Moines will help bring in more investors. 
 
 ## Resources
 - Python Pandas
 - Jupyter Notebook
-- Tableau
+- Tableau: https://public.tableau.com/app/profile/masie.duncan/viz/NYC_Citibike_Challenge_16574854395680/Story1
 
 ## Results
 
@@ -58,4 +59,11 @@ After reviewing the gender breakdown and learning that more men make up the majo
 **Figure 7:**
 
 ![Trips by Gender_weekday per hour](https://user-images.githubusercontent.com/102122063/178163356-9352506b-2aea-4a71-b354-662d1243d6e4.PNG)
+
+## Summary
+The collective visualizations show that the NYC Citi Bike share program has been successful and many people living in New York City subscribe to the program which can be profitable! The data positively supports the decision to start a bike-share program in Des Moines, Iowa! 
+
+In that conclusion, I do suggest that more analysis will be helpful for Des Moines to succeed in this endeavor. One suggestion would be to analyze bike share data from a city that is similar in size and region. New York City has a population of over 8 million, while the population in Des Moines is a little over 200,000. Chicago, IL, or St. Louis, MO may be more comparable to use for further bike share analysis. 
+
+Another suggestion for future analysis would be to analyze commuter data and visualize the number of people who commute to work and by what means, car, bus, carpool, walk, etc. Based on the graphs the typical commuting hours seemed to have the most usage, and it may be useful for Des Moines to further visualize starting and ending locations during the commuting hours to further support that more public/shared transportation would be beneficial and profitable for the city.
 

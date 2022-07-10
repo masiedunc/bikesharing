@@ -5,7 +5,7 @@ Bike share programs have been a popular choice for public transportation in many
 - Python Pandas
 - Jupyter Notebook
 - Tableau
-  - Tableau Public: https://public.tableau.com/app/profile/masie.duncan/viz/NYC_Citibike_Challenge_16574854395680/Story1
+  - [link to dashboard] https://public.tableau.com/app/profile/masie.duncan/viz/NYC_Citibike_Challenge_16574854395680/Story1
 
 ## Results
 
